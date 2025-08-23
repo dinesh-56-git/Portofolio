@@ -1,0 +1,17 @@
+header, footer {
+    background: #3f8d51;
+    color: rgb(255, 0, 0);
+    padding: rem;
+    text-align: center;
+  }
+  nav ul {
+    list-style-position: inside;
+    padding: 5;
+  }
+  nav li {
+    display:inline-flexbox;
+    margin: 1 1rem;
+  }
+  section, aside {
+    padding: 3rem;
+  }
